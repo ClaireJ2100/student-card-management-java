@@ -75,4 +75,7 @@ names. For example, I want to create a method to initialize buttons.
 - There is a change I have made before, I realize that set labels and
 text fields in the method which initialize panel was not following the 
 single responsibility principle. So I create method to set labels and
-text fields. 
+text fields.
+
+## About  
+This project was developed as part of **CPSC 210 (Software Construction)** at UBC. It is a Java-based Student Card Management System that allows students to manage their student cards through a self-service interface. Key features include creating and deleting accounts, checking balance and card info, changing passwords, and saving/loading data. The project also emphasizes software design principles, with improvements made to readability, modularity, and GUI structure throughout development.
